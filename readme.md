@@ -19,5 +19,10 @@ but don't forget to run it with `sudo -E` or `sudo` on Linux!
 
 ![](./assets/usagegif.gif)
 
+## Build
+no more than `go mod tidy && go build`, at lease on ubuntu.
+
+Oh...maybe you need gcc and libgtk-3-dev on linux as well
+
 ## Releases
 Sorry I am too lazy to build them... Open an issue if you really need them!
