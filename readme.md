@@ -2,7 +2,9 @@
 
 ## Introduction
 This is the GUI version of [g90updatefw](https://github.com/DaleFarnsworth/g90updatefw), It uploads firmware updates to the Xiegu G90 and Xiegu G106 radios.
-Note that g90updatefw-gui can be used to update firmware on either the G90 or the G106 radios. 
+
+In other words it is same as g90updatefw but with a gui interface.
+
 ![](./assets/img.png)
 
 ## Usage
@@ -12,7 +14,9 @@ Really simple, Just:
 + Click "start"
 
 Should work on windows/linux/macOS but only tried on ubuntu 24.04
+
 but don't forget to run it with `sudo -E` or `sudo` on Linux!
+
 ![](./assets/usagegif.gif)
 
 ## Releases
